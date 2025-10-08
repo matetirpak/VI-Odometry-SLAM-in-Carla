@@ -1,0 +1,11 @@
+carla # 0.9.15 - pip install is not enough
+filterpy==1.4.5
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+numpy==1.19.5
+open3d==0.17.0
+opencv-python==4.11.0.86
+Pillow==9.5.0
+plotly==5.18.0
+scipy==1.7.3
+ultralytics==8.0.145
